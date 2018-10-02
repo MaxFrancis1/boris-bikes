@@ -1,0 +1,11 @@
+Challenge 3
+The error message is telling you that you have not defined a variable called "DockingStation" therefore docking_station cannot be equal to it.
+
+Challenge 4
+This error is a Name error
+The location was here '/usr/local/rvm/rubies/ruby-2.4.1/bin/irb:11:in' 
+The line number is here '(irb):1'
+this is the error 'https://ruby-doc.org/core-2.5.1/NameError.html'
+A way of solving the error is to define DockingStation so it can be used.
+
+Challenge 6
