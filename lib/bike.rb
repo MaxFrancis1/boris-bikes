@@ -1,7 +1,7 @@
-class Bike_condition
+class Bike
   
-  def working
-    
+  def working?
+    true
   end
   
 end
