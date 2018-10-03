@@ -1,9 +1,10 @@
 require_relative('bike')
 class DockingStation
+  @bike
   docking_station = DockingStation
   
   def dock(bike)
-    @bike
+    @bike = bike
   end
   
   def release_bike
